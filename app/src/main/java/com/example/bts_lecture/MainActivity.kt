@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
 
         }
-
+//ss
 
         image2.setOnClickListener {
 
